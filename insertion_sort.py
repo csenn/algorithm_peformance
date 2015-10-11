@@ -1,4 +1,5 @@
 
+# ( n^2 - n ) / 2
 # n^2
 def insertion_sort(arr):
 

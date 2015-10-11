@@ -20,3 +20,10 @@ def compare_arrays(arr_1, arr_2):
 			return False
 
 	return True
+
+
+def factorial(n):
+	# Base Case
+	if n == 0:
+		return 1
+	return n * factorial(n - 1)

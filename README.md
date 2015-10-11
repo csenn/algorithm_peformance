@@ -1,9 +1,10 @@
-# algorithm_peformance
+# Algorithm_Performance
 
 Practice, practice, practice
 
-run with
+### run with
+
 python main.py
 
 ### Note
-These are not meant to be for learning and not for using
+These are for learning, not for using

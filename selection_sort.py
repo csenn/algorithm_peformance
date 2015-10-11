@@ -25,5 +25,3 @@ def selection_sort(arr):
 		swap_idx = find_next_smallest_index(i, arr[i])
 		if swap_idx != i:
 			swap(i, swap_idx)
-
-	return arr
