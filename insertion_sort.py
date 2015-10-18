@@ -1,11 +1,13 @@
 # ( n^2 - n ) / 2
 # n^2
+
+
 def insertion_sort(arr):
     def shift_right(right_index):
 
         start_val = arr[right_index]
 
-        while (right_index >= 1):
+        while right_index >= 1:
             if arr[right_index] >= arr[right_index - 1]:
                 break
             temp = arr[right_index]
